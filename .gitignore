@@ -1,0 +1,13 @@
+node_modules/
+.DS_Store
+*.local
+package-lock.json
+/dist
+/coverage
+/build
+/lib
+logs
+*.log
+coverage.data
+*.exe
+go.sum
