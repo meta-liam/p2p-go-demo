@@ -1,4 +1,5 @@
 // golang p2p udp client
+// go run v1/client/main.go
 
 package main
 

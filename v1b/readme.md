@@ -1,6 +1,6 @@
 # info
 
-https://clarkqaq.gitee.io/posts/golangp2pudp/
+[参考](https://clarkqaq.gitee.io/posts/golangp2pudp/)
 
 ## 小结
 

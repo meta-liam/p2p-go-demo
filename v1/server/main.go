@@ -1,5 +1,5 @@
 // golang p2p udp server
-
+// go run v1/server/main.go
 package main
 
 import (
